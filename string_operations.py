@@ -27,3 +27,4 @@ print(course.isalnum()) # if the string contains only alphabets and numbers
 # print(course.istitle())
 # print(course.join("AI"))
 # print(course.split())
+
